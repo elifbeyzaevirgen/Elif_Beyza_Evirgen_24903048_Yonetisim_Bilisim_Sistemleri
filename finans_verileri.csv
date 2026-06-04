@@ -1,0 +1,21 @@
+id;tutar;tarih;aciklama;tip
+1;15000.0;2026-01-15;Aylık Maaş Ödemesi;gelir
+2;2500.0;2026-01-20;Freeland Tasarım İşi;gelir
+3;16000.0;2026-02-15;Aylık Maaş Ödemesi;gelir
+4;3000.0;2026-02-28;Yatırım Temettü Geliri;gelir
+5;16000.0;2026-03-15;Aylık Maaş Ödemesi;gelir
+6;4500.0;2026-03-25;E-Ticaret Satış Geliri;gelir
+7;16500.0;2026-04-15;Aylık Maaş Ödemesi;gelir
+8;17000.0;2026-05-15;Aylık Maaş Ödemesi;gelir
+1;4500.0;2026-01-16;Kira Ödemesi;gider
+2;1200.0;2026-01-18;Aylık Market Alışverişi;gider
+3;850.0;2026-01-22;Elektrik & İnternet Faturaları;gider
+4;4500.0;2026-02-16;Kira Ödemesi;gider
+5;1500.0;2026-02-20;Araç Bakım & Yakıt Gideri;gider
+6;4500.0;2026-03-16;Kira Ödemesi;gider
+7;2100.0;2026-03-18;Giyim ve Sosyal Aktivite;gider
+8;950.0;2026-03-22;Su & Gaz Faturaları;gider
+9;4800.0;2026-04-16;Kira Ödemesi;gider
+10;1800.0;2026-04-20;Haftalık Süpermarket Harcaması;gider
+11;4800.0;2026-05-16;Kira Ödemesi;gider
+12;3200.0;2026-05-22;Yaz Tatili Ön Ödemesi;gider
