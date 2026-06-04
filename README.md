@@ -6,16 +6,8 @@
 - **Öğrenci Numarası:** 24903048
 - **Bölümü:** Yönetişim Bilişim Sistemleri
 
----
 
-## 1. PROJE TANIMI VE AMACI
-Bu proje, öğrencilerin Python programlama dili ile dönem boyunca öğrendikleri temel ve ileri düzey konuları (modüler yazılım geliştirme, nesne tabanlı programlama, dosya işlemleri, hata yönetimi, Pandas & NumPy ile veri analizi ve Matplotlib ile veri görselleştirme) bir araya getirerek gerçek dünya problemlerine yönelik modüler ve veri odaklı bir yazılım geliştirme yetkinliğini göstermek amacıyla tasarlanmıştır.
-
-Geliştirilen **Kişisel Finans ve Harcama Takip Sistemi**, kullanıcıların gelir ve giderlerini kaydetmesini, listelemesini, Pandas ve NumPy kullanarak ayrıntılı finansal/istatistiksel analizler yapmasını, Matplotlib kütüphanesi yardımıyla bu analizleri görsel grafik raporlara dönüştürmesini ve verilerini kalıcı bir CSV dosyasında saklamasını sağlar.
-
----
-
-## 2. PROJE KLASÖR YAPISI VE MODÜLLER
+## PROJE KLASÖR YAPISI VE MODÜLLER
 Proje, temiz kod (Clean Code) prensiplerine uygun olarak modüler bir mimaride tasarlanmıştır. Dosya ağacı aşağıdaki şekildedir:
 
 ```text
@@ -40,7 +32,7 @@ Elif_Beyza_Evirgen_24903048_Yonetisim_Bilisim_Sistemleri/
 
 ---
 
-## 3. VERİ YAPILARI VE NESNE YÖNELİMLİ PROGRAMLAMA (OOP)
+## VERİ YAPILARI VE NESNE YÖNELİMLİ PROGRAMLAMA (OOP)
 Sistemde veriler dinamik listeler halinde saklanır:
 - `gelirler = []`: Sisteme eklenen her bir gelir işlemini temsil eden `Islem` nesnelerini tutan liste.
 - `giderler = []`: Sisteme eklenen her bir gider işlemini temsil eden `Islem` nesnelerini tutan liste.
@@ -60,7 +52,7 @@ class Islem:
 
 ---
 
-## 4. MODÜLLERİN VE ZORUNLU FONKSİYONLARIN GÖREVLERİ
+## MODÜLLERİN VE ZORUNLU FONKSİYONLARIN GÖREVLERİ
 
 ### A. Yardımcı Fonksiyonlar (`utils.py`)
 - **`yeni_id_olustur(liste)`**: Belirtilen listedeki (gelirler veya giderler) en yüksek ID'yi bularak 1 artırır ve çakışmayan yeni bir benzersiz ID üretir. Liste boşsa varsayılan olarak `1` değerini döner.
@@ -91,7 +83,7 @@ class Islem:
 
 ---
 
-## 5. UYGULAMA EKRAN GÖRÜNTÜLERİ (ÇIKTILAR)
+## UYGULAMA EKRAN GÖRÜNTÜLERİ (ÇIKTILAR)
 
 Teknik şartnamenin ve Clean Code prensiplerinin gereği olarak, uygulamanın çalıştırılmasıyla elde edilen konsol ekranları ve Matplotlib grafikleri aşağıda sunulmuştur:
 
@@ -137,7 +129,7 @@ Bütçenin yüzde kaçının harcamalara gittiğini gösteren pasta grafiği:
 
 ---
 
-## 6. PROJENİN ÇALIŞTIRILMASI VE KULLANIMI
+## PROJENİN ÇALIŞTIRILMASI VE KULLANIMI
 
 ### Gereksinimler
 Proje çalıştırılmadan önce gerekli kütüphanelerin yüklü olduğundan emin olunmalıdır:
