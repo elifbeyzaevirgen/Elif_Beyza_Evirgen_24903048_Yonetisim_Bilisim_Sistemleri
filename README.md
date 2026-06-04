@@ -1,5 +1,5 @@
 # KİŞİSEL FİNANS VE HARCAMA TAKİP SİSTEMİ
-## BGY210 - Python Programlama II Bahar Dönemi Bireysel Final Proje Ödevi Raporu
+## BGY210 - Python Programlama II Bahar Dönemi Bireysel Final Proje Ödevi Raporum
 
 **Geliştirici Bilgileri:**
 - **Öğrenci Adı Soyadı:** Elif Beyza Evirgen
