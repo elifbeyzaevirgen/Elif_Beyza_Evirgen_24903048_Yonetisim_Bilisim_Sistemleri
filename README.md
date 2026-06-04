@@ -99,34 +99,41 @@ Teknik şartnamenin ve Clean Code prensiplerinin gereği olarak, uygulamanın ç
 
 #### 1. Konsol Ana Menüsü (`menu_goster`)
 Program çalıştırıldığında kullanıcıyı karşılayan, tüm işlevlerin tetiklendiği interaktif ana menü:
-![Konsol Ana Menüsü](proje_ciktilari/ss_console_menu.png)
+<img width="850" height="410" alt="ss_console_menu" src="https://github.com/user-attachments/assets/51399938-7315-414d-b78f-369a7799d890" />
+
 
 #### 2. Dinamik İşlem Ekleme ve Kaydetme
 Sisteme doğrulama adımlarıyla yeni bir işlem eklenmesi ve CSV dosyasına kaydedilmesi:
-![İşlem Ekleme ve CSV Kaydetme](proje_ciktilari/ss_console_add.png)
+<img width="850" height="344" alt="ss_console_add" src="https://github.com/user-attachments/assets/300823e1-3bea-4d23-887b-5777390d6dc2" />
+
 
 #### 3. Tüm İşlemlerin Kronolojik Tablo Listesi
 Gelir ve gider işlemlerinin tek bir tabloda, hizalı ve tarih sıralı gösterimi:
-![İşlemler Tablosu](proje_ciktilari/ss_console_list.png)
+<img width="850" height="520" alt="ss_console_list" src="https://github.com/user-attachments/assets/37d62f4d-1d05-487d-ba77-b555d653b6c0" />
+
 
 #### 4. Pandas ve NumPy Tabanlı İstatistik Analiz Raporu
 Pandas ile aylık özet tabloları ve NumPy ile hesaplanan ortalama, standart sapma değerleri:
-![Analiz Raporu](proje_ciktilari/ss_console_analysis.png)
+<img width="850" height="542" alt="ss_console_analysis" src="https://github.com/user-attachments/assets/0f353cb9-95d4-424b-87b9-3625ecffc45e" />
+
 
 
 ### B. Veri Görselleştirme Çıktıları (Matplotlib)
 
 #### 1. Aylık Gelir ve Gider Çizgi Grafiği
 Bütçe trendlerini zamana bağlı olarak izlemeyi sağlayan çizgi grafiği:
-![Aylık Gelir Gider Çizgi Grafiği](proje_ciktilari/aylik_gelir_gider_cizgi.png)
+<img width="990" height="590" alt="aylik_gelir_gider_cizgi" src="https://github.com/user-attachments/assets/5a7a811e-8b25-40cc-b03e-e5e895a7edd1" />
+
 
 #### 2. Toplam Gelir ve Gider Bar Grafiği
 Net gelir ve gider seviyelerinin dikey sütunlar halinde karşılaştırılması:
-![Toplam Gelir Gider Bar Grafiği](proje_ciktilari/toplam_gelir_gider_bar.png)
+<img width="790" height="590" alt="toplam_gelir_gider_bar" src="https://github.com/user-attachments/assets/6de89844-8915-4461-9a99-86d4d97baf7d" />
+
 
 #### 3. Gelir / Gider Oran Dağılımı Pasta Grafiği
 Bütçenin yüzde kaçının harcamalara gittiğini gösteren pasta grafiği:
-![Pasta Dağılım Grafiği](proje_ciktilari/gelir_gider_pasta.png)
+<img width="653" height="690" alt="gelir_gider_pasta" src="https://github.com/user-attachments/assets/30d8bfa5-3a49-44c8-b7a4-7108fec517be" />
+
 
 ---
 
