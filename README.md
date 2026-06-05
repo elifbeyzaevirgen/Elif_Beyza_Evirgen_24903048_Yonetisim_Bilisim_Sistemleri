@@ -60,6 +60,7 @@ class Islem:
 - **`sayi_kontrol(deger)`**: Kullanıcıdan alınan metinsel girdilerin sayısal (float/int) bir değere dönüştürülebilir olup olmadığını kontrol eder, `ValueError` hatalarını yakalar.
 - **`menu_goster()`**: Konsol arayüzünün şık ve düzenli ana menüsünü ekrana yazdırır.
 
+
 ### B. İşlem Yönetimi (`islem_yonetimi.py`)
 - **`gelir_ekle(gelirler)`**: Kullanıcıdan gelir tutarı, tarih (boşsa otomatik olarak bugün) ve açıklama bilgilerini alır. Girdileri `utils.py` doğrulama fonksiyonlarıyla denetledikten sonra yeni bir `Islem` nesnesi oluşturup `gelirler` listesine ekler.
 - **`gider_ekle(giderler)`**: Kullanıcıdan harcama bilgilerini alır, doğrular, yeni bir gider `Islem` nesnesi oluşturarak `giderler` listesine ekler.
